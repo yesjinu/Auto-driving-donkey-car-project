@@ -1,6 +1,6 @@
 ### About
 
-1. <POSTECH RObot car REnaissance project>(aka. PORORE) is about making auto-driving RC car with open sources. We combines 'Raspberry Pi 3B+' with 'Dongkey car' which is a modifiable RC car. With RPLiDAR, 2D camera, and USB microphone to implement Hector-SLAM mapping, YOLO object identification, and voice recognition driving.
+1. Our project 'POSTECH RObot car REnaissance'(aka. PORORE) is about making auto-driving RC car with open sources. We combines 'Raspberry Pi 3B+' with 'Dongkey car' which is a modifiable RC car. With RPLiDAR, 2D camera, and USB microphone to implement Hector-SLAM mapping, YOLO object identification, and voice recognition driving.
 2. Simply, PORORE's commands are passed on to the moving module, enabling controls such as "go," "stop," "right," "left," "fast" and "slow." It also has the ability to take pictures every five seconds while driving and recognize objects in the pictures. It can then generate a 2D map of the driven space.
     
 ### Feature
