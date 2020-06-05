@@ -43,4 +43,4 @@ https://github.com/ros-teleop/teleop_twist_keyboard
 
 https://github.com/pjreddie/darknet
 
-Since there were no modifications on source codes after we forked from other user's repositories, we did not to open the codes due to LICENSING issue. If there occur problems by not opening codes that we use, please let us know. Thank you.
+Since there were no modifications on source codes after we forked from other user's repositories, we decide not to open the codes but hyperlink the repositories due to LICENSING issue. If there occur problems by not opening codes that we use, please let us know. Thank you.
