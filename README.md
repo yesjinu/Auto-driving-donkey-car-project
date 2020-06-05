@@ -36,8 +36,11 @@
 We utilize codes from 
 
 https://github.com/tu-darmstadt-ros-pkg/hector_slam
+
 https://github.com/GigaFlopsis/rc_car_ros
+
 https://github.com/ros-teleop/teleop_twist_keyboard
+
 https://github.com/pjreddie/darknet
 
 Since there were no modifications on source codes after we forked from other user's repositories, we did not to open the codes due to LICENSING issue. If there occur problems by not opening codes that we use, please let us know. Thank you.
